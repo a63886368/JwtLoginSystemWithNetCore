@@ -1,0 +1,96 @@
+我们按照分层架构来构建这个管理系统，各层职责如下：
+
+Domain（领域层）：包含实体模型、值对象、领域服务、仓库接口等，不依赖其他层。
+
+Infrastructure（基础设施层）：实现数据访问、文件存储、外部服务等，实现Domain层定义的仓库接口，依赖Domain层。
+
+Application（应用层）：包含应用服务、DTOs、映射配置等，协调领域对象完成业务逻辑，依赖Domain层和Infrastructure层。
+
+API（表现层）：提供HTTP API，处理请求和响应，依赖Application层。
+
+另外，前端项目（Web）是一个独立的客户端项目，通过HTTP调用API层的接口。
+
+下面我们详细说明各层的职责和它们之间的调用关系。
+
+1. Domain（领域层）
+领域层是核心业务逻辑的体现，包含：
+
+实体（Entities）：如User、Role、Menu等，具有唯一标识和生命周期。
+
+值对象（Value Objects）：不可变对象，用于描述领域的某个方面。
+
+领域服务（Domain Services）：处理跨多个实体的业务逻辑。
+
+仓库接口（Repository Interfaces）：定义数据访问的契约，但不包含实现。
+
+领域层不依赖任何其他层。
+
+2. Infrastructure（基础设施层）
+基础设施层为其他层提供技术支持，包括：
+
+仓库实现（Repository Implementations）：实现Domain层定义的仓库接口，使用Entity Framework Core进行数据访问。
+
+数据库上下文（DbContext）：EF Core的DbContext。
+
+身份验证服务（JWT服务）：实现JWT令牌的生成和验证。
+
+其他基础设施服务：如邮件发送、文件存储等。
+
+基础设施层依赖Domain层，因为它需要实现Domain层定义的接口。
+
+3. Application（应用层）
+应用层是领域层和表现层之间的桥梁，负责：
+
+应用服务（Application Services）：协调领域对象和基础设施服务来完成一个用例。应用服务应该是无状态的。
+
+数据传输对象（DTOs）：在层之间传输数据，避免直接使用领域模型。
+
+映射配置（Mapping Profiles）：使用AutoMapper将领域模型映射到DTOs，反之亦然。
+
+应用层依赖Domain层和Infrastructure层。但是，为了避免循环依赖，应用层不应该直接依赖Infrastructure层，而是通过依赖注入来解耦。实际上，我们通常会在Application层定义接口，在Infrastructure层实现，然后通过依赖注入在API层注入实现。
+
+4. API（表现层）
+API层是系统的入口点，提供HTTP API，包括：
+
+控制器（Controllers）：处理HTTP请求，调用应用服务，并返回HTTP响应。
+
+身份验证和授权：使用JWT Bearer Token进行身份验证，基于角色或权限进行授权。
+
+依赖注入配置：注册各层的服务。
+
+中间件配置：如异常处理、日志记录等。
+
+API层依赖Application层，因为控制器会调用应用服务。同时，API层也会依赖Infrastructure层，因为需要注册Infrastructure层实现的服务。
+
+5. Web（前端项目）
+前端项目是一个独立的Web应用，使用Vue 3、TypeScript等技术，通过HTTP请求与API层交互。
+
+调用顺序
+当用户通过前端发起一个请求时，调用顺序如下：
+
+前端发送HTTP请求到API层的某个控制器。
+
+控制器接收请求，解析参数，可能进行身份验证和授权检查。
+
+控制器调用Application层的应用服务。
+
+应用服务协调领域对象和基础设施服务（如仓库）来完成业务逻辑。
+
+基础设施服务（如仓库）从数据库获取数据或持久化数据。
+
+应用服务将结果返回给控制器。
+
+控制器将结果映射为DTO并返回HTTP响应。
+
+前端接收响应并更新界面。
+
+项目之间的引用关系
+ManagementSystem.API 引用 ManagementSystem.Application 和 ManagementSystem.Infrastructure
+
+ManagementSystem.Application 引用 ManagementSystem.Domain
+
+ManagementSystem.Infrastructure 引用 ManagementSystem.Domain
+
+ManagementSystem.Domain 不引用任何项目
+
+ManagementSystem.Web 不引用其他项目，独立运行，通过HTTP与API交互

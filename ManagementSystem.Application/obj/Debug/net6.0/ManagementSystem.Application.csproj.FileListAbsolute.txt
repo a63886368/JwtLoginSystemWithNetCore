@@ -1,0 +1,17 @@
+D:\code\Net\CommonStructWeb\ManagementSystem.Application\obj\Debug\net6.0\ManagementSystem.Application.csproj.AssemblyReference.cache
+D:\code\Net\CommonStructWeb\ManagementSystem.Application\obj\Debug\net6.0\ManagementSystem.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\Net\CommonStructWeb\ManagementSystem.Application\obj\Debug\net6.0\ManagementSystem.Application.AssemblyInfoInputs.cache
+D:\code\Net\CommonStructWeb\ManagementSystem.Application\obj\Debug\net6.0\ManagementSystem.Application.AssemblyInfo.cs
+D:\code\Net\CommonStructWeb\ManagementSystem.Application\obj\Debug\net6.0\ManagementSystem.Application.csproj.CoreCompileInputs.cache
+D:\code\Net\CommonStructWeb\ManagementSystem.Application\bin\Debug\net6.0\ManagementSystem.Application.deps.json
+D:\code\Net\CommonStructWeb\ManagementSystem.Application\bin\Debug\net6.0\ManagementSystem.Application.dll
+D:\code\Net\CommonStructWeb\ManagementSystem.Application\bin\Debug\net6.0\ManagementSystem.Application.pdb
+D:\code\Net\CommonStructWeb\ManagementSystem.Application\bin\Debug\net6.0\ManagementSystem.Domain.dll
+D:\code\Net\CommonStructWeb\ManagementSystem.Application\bin\Debug\net6.0\ManagementSystem.Infrastructure.dll
+D:\code\Net\CommonStructWeb\ManagementSystem.Application\bin\Debug\net6.0\ManagementSystem.Domain.pdb
+D:\code\Net\CommonStructWeb\ManagementSystem.Application\bin\Debug\net6.0\ManagementSystem.Infrastructure.pdb
+D:\code\Net\CommonStructWeb\ManagementSystem.Application\obj\Debug\net6.0\Manageme.D3692DB6.Up2Date
+D:\code\Net\CommonStructWeb\ManagementSystem.Application\obj\Debug\net6.0\ManagementSystem.Application.dll
+D:\code\Net\CommonStructWeb\ManagementSystem.Application\obj\Debug\net6.0\refint\ManagementSystem.Application.dll
+D:\code\Net\CommonStructWeb\ManagementSystem.Application\obj\Debug\net6.0\ManagementSystem.Application.pdb
+D:\code\Net\CommonStructWeb\ManagementSystem.Application\obj\Debug\net6.0\ref\ManagementSystem.Application.dll

@@ -1,0 +1,278 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\code\\Net\\CommonStructWeb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE795680-6B51-4C43-B167-77694B6B2844}|ManagementSystem.Application\\ManagementSystem.Application.csproj|d:\\code\\net\\commonstructweb\\managementsystem.application\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE795680-6B51-4C43-B167-77694B6B2844}|ManagementSystem.Application\\ManagementSystem.Application.csproj|solutionrelative:managementsystem.application\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8FCD242-68E8-4A2B-8322-542C370B3970}|ManagementSystem.Infrastructure\\ManagementSystem.Infrastructure.csproj|d:\\code\\net\\commonstructweb\\managementsystem.infrastructure\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8FCD242-68E8-4A2B-8322-542C370B3970}|ManagementSystem.Infrastructure\\ManagementSystem.Infrastructure.csproj|solutionrelative:managementsystem.infrastructure\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A40DA270-ECFA-4A08-8FA6-87C7A4E0B7BA}|ManagementSystem.Domain\\ManagementSystem.Domain.csproj|d:\\code\\net\\commonstructweb\\managementsystem.domain\\entities\\rolemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A40DA270-ECFA-4A08-8FA6-87C7A4E0B7BA}|ManagementSystem.Domain\\ManagementSystem.Domain.csproj|solutionrelative:managementsystem.domain\\entities\\rolemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A40DA270-ECFA-4A08-8FA6-87C7A4E0B7BA}|ManagementSystem.Domain\\ManagementSystem.Domain.csproj|d:\\code\\net\\commonstructweb\\managementsystem.domain\\interfaces\\imenurepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A40DA270-ECFA-4A08-8FA6-87C7A4E0B7BA}|ManagementSystem.Domain\\ManagementSystem.Domain.csproj|solutionrelative:managementsystem.domain\\interfaces\\imenurepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE795680-6B51-4C43-B167-77694B6B2844}|ManagementSystem.Application\\ManagementSystem.Application.csproj|d:\\code\\net\\commonstructweb\\managementsystem.application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE795680-6B51-4C43-B167-77694B6B2844}|ManagementSystem.Application\\ManagementSystem.Application.csproj|solutionrelative:managementsystem.application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2AC83DE-34AF-41A3-9723-9457E9EA9395}|ManagementSystem.API\\ManagementSystem.API.csproj|d:\\code\\net\\commonstructweb\\managementsystem.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2AC83DE-34AF-41A3-9723-9457E9EA9395}|ManagementSystem.API\\ManagementSystem.API.csproj|solutionrelative:managementsystem.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2AC83DE-34AF-41A3-9723-9457E9EA9395}|ManagementSystem.API\\ManagementSystem.API.csproj|d:\\code\\net\\commonstructweb\\managementsystem.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2AC83DE-34AF-41A3-9723-9457E9EA9395}|ManagementSystem.API\\ManagementSystem.API.csproj|solutionrelative:managementsystem.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE795680-6B51-4C43-B167-77694B6B2844}|ManagementSystem.Application\\ManagementSystem.Application.csproj|d:\\code\\net\\commonstructweb\\managementsystem.application\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE795680-6B51-4C43-B167-77694B6B2844}|ManagementSystem.Application\\ManagementSystem.Application.csproj|solutionrelative:managementsystem.application\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8FCD242-68E8-4A2B-8322-542C370B3970}|ManagementSystem.Infrastructure\\ManagementSystem.Infrastructure.csproj|d:\\code\\net\\commonstructweb\\managementsystem.infrastructure\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8FCD242-68E8-4A2B-8322-542C370B3970}|ManagementSystem.Infrastructure\\ManagementSystem.Infrastructure.csproj|solutionrelative:managementsystem.infrastructure\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8FCD242-68E8-4A2B-8322-542C370B3970}|ManagementSystem.Infrastructure\\ManagementSystem.Infrastructure.csproj|d:\\code\\net\\commonstructweb\\managementsystem.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8FCD242-68E8-4A2B-8322-542C370B3970}|ManagementSystem.Infrastructure\\ManagementSystem.Infrastructure.csproj|solutionrelative:managementsystem.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8FCD242-68E8-4A2B-8322-542C370B3970}|ManagementSystem.Infrastructure\\ManagementSystem.Infrastructure.csproj|d:\\code\\net\\commonstructweb\\managementsystem.infrastructure\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8FCD242-68E8-4A2B-8322-542C370B3970}|ManagementSystem.Infrastructure\\ManagementSystem.Infrastructure.csproj|solutionrelative:managementsystem.infrastructure\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2AC83DE-34AF-41A3-9723-9457E9EA9395}|ManagementSystem.API\\ManagementSystem.API.csproj|d:\\code\\net\\commonstructweb\\managementsystem.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2AC83DE-34AF-41A3-9723-9457E9EA9395}|ManagementSystem.API\\ManagementSystem.API.csproj|solutionrelative:managementsystem.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2AC83DE-34AF-41A3-9723-9457E9EA9395}|ManagementSystem.API\\ManagementSystem.API.csproj|d:\\code\\net\\commonstructweb\\managementsystem.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2AC83DE-34AF-41A3-9723-9457E9EA9395}|ManagementSystem.API\\ManagementSystem.API.csproj|solutionrelative:managementsystem.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8FCD242-68E8-4A2B-8322-542C370B3970}|ManagementSystem.Infrastructure\\ManagementSystem.Infrastructure.csproj|d:\\code\\net\\commonstructweb\\managementsystem.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8FCD242-68E8-4A2B-8322-542C370B3970}|ManagementSystem.Infrastructure\\ManagementSystem.Infrastructure.csproj|solutionrelative:managementsystem.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8FCD242-68E8-4A2B-8322-542C370B3970}|ManagementSystem.Infrastructure\\ManagementSystem.Infrastructure.csproj|d:\\code\\net\\commonstructweb\\managementsystem.infrastructure\\repositories\\menurepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8FCD242-68E8-4A2B-8322-542C370B3970}|ManagementSystem.Infrastructure\\ManagementSystem.Infrastructure.csproj|solutionrelative:managementsystem.infrastructure\\repositories\\menurepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 302,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "D:\\code\\Net\\CommonStructWeb\\ManagementSystem.Application\\Services\\IAuthService.cs",
+              "RelativeDocumentMoniker": "ManagementSystem.Application\\Services\\IAuthService.cs",
+              "ToolTip": "D:\\code\\Net\\CommonStructWeb\\ManagementSystem.Application\\Services\\IAuthService.cs",
+              "RelativeToolTip": "ManagementSystem.Application\\Services\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T01:33:28.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\code\\Net\\CommonStructWeb\\ManagementSystem.Application\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "ManagementSystem.Application\\Services\\UserService.cs",
+              "ToolTip": "D:\\code\\Net\\CommonStructWeb\\ManagementSystem.Application\\Services\\UserService.cs",
+              "RelativeToolTip": "ManagementSystem.Application\\Services\\UserService.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T01:32:42.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IMenuRepository.cs",
+              "DocumentMoniker": "D:\\code\\Net\\CommonStructWeb\\ManagementSystem.Domain\\Interfaces\\IMenuRepository.cs",
+              "RelativeDocumentMoniker": "ManagementSystem.Domain\\Interfaces\\IMenuRepository.cs",
+              "ToolTip": "D:\\code\\Net\\CommonStructWeb\\ManagementSystem.Domain\\Interfaces\\IMenuRepository.cs",
+              "RelativeToolTip": "ManagementSystem.Domain\\Interfaces\\IMenuRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T01:32:28.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RoleMenu.cs",
+              "DocumentMoniker": "D:\\code\\Net\\CommonStructWeb\\ManagementSystem.Domain\\Entities\\RoleMenu.cs",
+              "RelativeDocumentMoniker": "ManagementSystem.Domain\\Entities\\RoleMenu.cs",
+              "ToolTip": "D:\\code\\Net\\CommonStructWeb\\ManagementSystem.Domain\\Entities\\RoleMenu.cs",
+              "RelativeToolTip": "ManagementSystem.Domain\\Entities\\RoleMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T01:32:24.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "D:\\code\\Net\\CommonStructWeb\\ManagementSystem.Infrastructure\\Data\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "ManagementSystem.Infrastructure\\Data\\DbInitializer.cs",
+              "ToolTip": "D:\\code\\Net\\CommonStructWeb\\ManagementSystem.Infrastructure\\Data\\DbInitializer.cs",
+              "RelativeToolTip": "ManagementSystem.Infrastructure\\Data\\DbInitializer.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwC4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T00:39:01.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\code\\Net\\CommonStructWeb\\ManagementSystem.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ManagementSystem.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\code\\Net\\CommonStructWeb\\ManagementSystem.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ManagementSystem.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T00:38:57.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\code\\Net\\CommonStructWeb\\ManagementSystem.Application\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "ManagementSystem.Application\\Services\\AuthService.cs",
+              "ToolTip": "D:\\code\\Net\\CommonStructWeb\\ManagementSystem.Application\\Services\\AuthService.cs*",
+              "RelativeToolTip": "ManagementSystem.Application\\Services\\AuthService.cs*",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAlwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T00:33:07.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\code\\Net\\CommonStructWeb\\ManagementSystem.API\\appsettings.json",
+              "RelativeDocumentMoniker": "ManagementSystem.API\\appsettings.json",
+              "ToolTip": "D:\\code\\Net\\CommonStructWeb\\ManagementSystem.API\\appsettings.json",
+              "RelativeToolTip": "ManagementSystem.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-14T00:31:56.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\code\\Net\\CommonStructWeb\\ManagementSystem.API\\Program.cs",
+              "RelativeDocumentMoniker": "ManagementSystem.API\\Program.cs",
+              "ToolTip": "D:\\code\\Net\\CommonStructWeb\\ManagementSystem.API\\Program.cs",
+              "RelativeToolTip": "ManagementSystem.API\\Program.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAiwGAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T05:29:32.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\code\\Net\\CommonStructWeb\\ManagementSystem.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "ManagementSystem.API\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\code\\Net\\CommonStructWeb\\ManagementSystem.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "ManagementSystem.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAtwBAAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T05:15:42.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\code\\Net\\CommonStructWeb\\ManagementSystem.API\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "ManagementSystem.API\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\code\\Net\\CommonStructWeb\\ManagementSystem.API\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "ManagementSystem.API\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAkwB0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T05:12:11.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\code\\Net\\CommonStructWeb\\ManagementSystem.Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "ManagementSystem.Infrastructure\\Repositories\\UserRepository.cs",
+              "ToolTip": "D:\\code\\Net\\CommonStructWeb\\ManagementSystem.Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "ManagementSystem.Infrastructure\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T04:32:12.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "D:\\code\\Net\\CommonStructWeb\\ManagementSystem.Infrastructure\\Services\\JwtService.cs",
+              "RelativeDocumentMoniker": "ManagementSystem.Infrastructure\\Services\\JwtService.cs",
+              "ToolTip": "D:\\code\\Net\\CommonStructWeb\\ManagementSystem.Infrastructure\\Services\\JwtService.cs",
+              "RelativeToolTip": "ManagementSystem.Infrastructure\\Services\\JwtService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwEkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T04:31:33.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "D:\\code\\Net\\CommonStructWeb\\ManagementSystem.Infrastructure\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "ManagementSystem.Infrastructure\\Repositories\\Repository.cs",
+              "ToolTip": "D:\\code\\Net\\CommonStructWeb\\ManagementSystem.Infrastructure\\Repositories\\Repository.cs",
+              "RelativeToolTip": "ManagementSystem.Infrastructure\\Repositories\\Repository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T04:31:02.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MenuRepository.cs",
+              "DocumentMoniker": "D:\\code\\Net\\CommonStructWeb\\ManagementSystem.Infrastructure\\Repositories\\MenuRepository.cs",
+              "RelativeDocumentMoniker": "ManagementSystem.Infrastructure\\Repositories\\MenuRepository.cs",
+              "ToolTip": "D:\\code\\Net\\CommonStructWeb\\ManagementSystem.Infrastructure\\Repositories\\MenuRepository.cs",
+              "RelativeToolTip": "ManagementSystem.Infrastructure\\Repositories\\MenuRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAwAoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T04:30:41.032Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+D:\code\Net\CommonStructWeb\ManagementSystem.Infrastructure\obj\Debug\net6.0\ManagementSystem.Infrastructure.csproj.AssemblyReference.cache
+D:\code\Net\CommonStructWeb\ManagementSystem.Infrastructure\obj\Debug\net6.0\ManagementSystem.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\Net\CommonStructWeb\ManagementSystem.Infrastructure\obj\Debug\net6.0\ManagementSystem.Infrastructure.AssemblyInfoInputs.cache
+D:\code\Net\CommonStructWeb\ManagementSystem.Infrastructure\obj\Debug\net6.0\ManagementSystem.Infrastructure.AssemblyInfo.cs
+D:\code\Net\CommonStructWeb\ManagementSystem.Infrastructure\obj\Debug\net6.0\ManagementSystem.Infrastructure.csproj.CoreCompileInputs.cache
+D:\code\Net\CommonStructWeb\ManagementSystem.Infrastructure\bin\Debug\net6.0\ManagementSystem.Infrastructure.deps.json
+D:\code\Net\CommonStructWeb\ManagementSystem.Infrastructure\bin\Debug\net6.0\ManagementSystem.Infrastructure.runtimeconfig.json
+D:\code\Net\CommonStructWeb\ManagementSystem.Infrastructure\bin\Debug\net6.0\ManagementSystem.Infrastructure.dll
+D:\code\Net\CommonStructWeb\ManagementSystem.Infrastructure\bin\Debug\net6.0\ManagementSystem.Infrastructure.pdb
+D:\code\Net\CommonStructWeb\ManagementSystem.Infrastructure\bin\Debug\net6.0\ManagementSystem.Domain.dll
+D:\code\Net\CommonStructWeb\ManagementSystem.Infrastructure\bin\Debug\net6.0\ManagementSystem.Domain.pdb
+D:\code\Net\CommonStructWeb\ManagementSystem.Infrastructure\obj\Debug\net6.0\Manageme.A8E15DC0.Up2Date
+D:\code\Net\CommonStructWeb\ManagementSystem.Infrastructure\obj\Debug\net6.0\ManagementSystem.Infrastructure.dll
+D:\code\Net\CommonStructWeb\ManagementSystem.Infrastructure\obj\Debug\net6.0\refint\ManagementSystem.Infrastructure.dll
+D:\code\Net\CommonStructWeb\ManagementSystem.Infrastructure\obj\Debug\net6.0\ManagementSystem.Infrastructure.pdb
+D:\code\Net\CommonStructWeb\ManagementSystem.Infrastructure\obj\Debug\net6.0\ManagementSystem.Infrastructure.genruntimeconfig.cache
+D:\code\Net\CommonStructWeb\ManagementSystem.Infrastructure\obj\Debug\net6.0\ref\ManagementSystem.Infrastructure.dll

@@ -1,0 +1,5 @@
+D:\code\Net\CommonStructWeb\ManagementSystem.Infrastructure\obj\Debug\net5.0\ManagementSystem.Infrastructure.csprojAssemblyReference.cache
+D:\code\Net\CommonStructWeb\ManagementSystem.Infrastructure\obj\Debug\net5.0\ManagementSystem.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\Net\CommonStructWeb\ManagementSystem.Infrastructure\obj\Debug\net5.0\ManagementSystem.Infrastructure.AssemblyInfoInputs.cache
+D:\code\Net\CommonStructWeb\ManagementSystem.Infrastructure\obj\Debug\net5.0\ManagementSystem.Infrastructure.AssemblyInfo.cs
+D:\code\Net\CommonStructWeb\ManagementSystem.Infrastructure\obj\Debug\net5.0\ManagementSystem.Infrastructure.csproj.CoreCompileInputs.cache

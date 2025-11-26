@@ -1,0 +1,11 @@
+D:\code\Net\CommonStructWeb\ManagementSystem.Domain\bin\Debug\net6.0\ManagementSystem.Domain.deps.json
+D:\code\Net\CommonStructWeb\ManagementSystem.Domain\bin\Debug\net6.0\ManagementSystem.Domain.dll
+D:\code\Net\CommonStructWeb\ManagementSystem.Domain\bin\Debug\net6.0\ManagementSystem.Domain.pdb
+D:\code\Net\CommonStructWeb\ManagementSystem.Domain\obj\Debug\net6.0\ManagementSystem.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\Net\CommonStructWeb\ManagementSystem.Domain\obj\Debug\net6.0\ManagementSystem.Domain.AssemblyInfoInputs.cache
+D:\code\Net\CommonStructWeb\ManagementSystem.Domain\obj\Debug\net6.0\ManagementSystem.Domain.AssemblyInfo.cs
+D:\code\Net\CommonStructWeb\ManagementSystem.Domain\obj\Debug\net6.0\ManagementSystem.Domain.csproj.CoreCompileInputs.cache
+D:\code\Net\CommonStructWeb\ManagementSystem.Domain\obj\Debug\net6.0\ManagementSystem.Domain.dll
+D:\code\Net\CommonStructWeb\ManagementSystem.Domain\obj\Debug\net6.0\refint\ManagementSystem.Domain.dll
+D:\code\Net\CommonStructWeb\ManagementSystem.Domain\obj\Debug\net6.0\ManagementSystem.Domain.pdb
+D:\code\Net\CommonStructWeb\ManagementSystem.Domain\obj\Debug\net6.0\ref\ManagementSystem.Domain.dll
